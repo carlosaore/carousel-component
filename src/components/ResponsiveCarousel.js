@@ -7,14 +7,14 @@ class ResponsiveCarousel extends Component {
         return (
             <Carousel>
                 <div>
-                    <img src="https://via.placeholder.com/150" />
+                    <img src="https://via.placeholder.com/150" alt=""/>
                 </div>
                 <div>
-                    <img src="https://via.placeholder.com/150" />
+                    <img src="https://via.placeholder.com/150" alt=""/>
                     <p className="legend">Legend 2</p>
                 </div>
                 <div>
-                    <img src="https://via.placeholder.com/150" />
+                    <img src="https://via.placeholder.com/150" alt=""/>
                     <p className="legend">Legend 3</p>
                 </div>
             </Carousel>
